@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @anjan9875 and I am 24 YO.
 - 👀 I’m interested in learning to code. Technology has always been my passion.
 - 🌱 I’m currently learning from freecodecamp.org I am a newbie programmer.
+- ⛱ I have enrolled myself in 100 Days of python on udemy by Dr.Angela Yu
 - 💞️ I’m looking to study well and collaborate on various projects. 
 - 📫 My twitter handle: #Will be updated soon once i create an account
 
